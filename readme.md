@@ -1,4 +1,6 @@
-# Hi, I´m Alex! ![Profilbild](https://user-images.githubusercontent.com/128151050/226579272-f7feea68-aeae-49b9-b8fb-53719db9b43f.jpg)
+<img src="https://user-images.githubusercontent.com/128151050/226579272-f7feea68-aeae-49b9-b8fb-53719db9b43f.jpg" alt="Profilbild" width="200" height="250"/>
+
+# Hi, I´m Alex! 
 
 ## I just left the starting point to build up some skills as a Web Developer to widen my professional setup.
 
