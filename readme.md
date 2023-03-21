@@ -4,14 +4,14 @@
 
 ## I just left the starting point to build up some skills as a Web Developer to widen my professional setup.
 
-### I am based in Munich, Germany, where I started my academic career with a B.A. in Political Science with Law as a minor and worked on projects for a small consulting company/think tank in the Politics sector. Beside that I am a freelance translator and enjoy the huge variety of topics that come across me in the following fields:
+### I am based in Munich where I started my academic career with a B.A. in Political Science with Law as a minor at LMU Munich and worked on projects for a small consulting company/think tank in the Politics sector. Beside that I am a freelance translator and enjoy the huge variety of topics that come across me in the following fields:
 
 ##### - travel :world_map:
 ##### - culinary :wine_glass:
 ##### - films & media :red_envelope:
 ##### - sports :tennis:
 
-#### It´s probably no coincidence that these topics match my private interests pretty well. What I am still waiting for is a project about football - so bring it on please :soccer: :wink:
+#### It´s probably no coincidence that these topics match my private interests pretty well. What I am still waiting for is a project about football - so please feel free...  :soccer: :wink:
 
 
 
